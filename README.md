@@ -1,4 +1,4 @@
-# Loan Approval Prediction
+# Loan Approval Prediction 📊
 
 # Background 🔍
 LOANS are a major requirement of the modern world. By this, banks get a major part of the total profit. It is beneficial for students to manage their education and living expenses, and for people to buy any kind of luxury like houses, cars, etc. But when it comes to deciding whether the applicant’s profile is relevant to be granted a loan or not. Banks have to look after many aspects.	We will develop one such model that can predict whether a person will get his/her loan approved or not by using some of the applicant's background information like the applicant’s gender, marital status, income, etc.
